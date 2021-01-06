@@ -95,3 +95,6 @@ label.title {
     right: 0;
     transform: translateY(-50%);
 }
+.month {
+    text-transform: capitalize;
+}
